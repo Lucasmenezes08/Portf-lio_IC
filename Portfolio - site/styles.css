@@ -1,8 +1,25 @@
 body{
-    background-color: azure;
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color:aliceblue;
     padding: 20px
 }
 
+
+.A{
+    
+    padding: 10px 0;
+    text-align: center;
+}
+
+.A h1{
+    margin-top: 0px;
+}
+    
+.A p {
+    margin-bottom: 10px;
+}
+
+
+    
