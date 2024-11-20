@@ -9,16 +9,28 @@ body{
 
 .A{
     
-    padding: 10px 0;
+    padding: 40px 0;
     text-align: center;
+    background-color: chartreuse;
+    color:black;
+    border: 5px solid ;
+
 }
 
 .A h1{
+    -webkit-text-stroke: 1px;
     margin-top: 0px;
+    margin-bottom: 10px;
+    font-size:40px;
+
+    
+    
 }
     
 .A p {
     margin-bottom: 10px;
+    
+    
 }
 
 
