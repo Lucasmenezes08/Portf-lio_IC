@@ -114,3 +114,12 @@ body{
     font-size: 19px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.projeto {
+    font-size: 20px;
+    
+}
+
+.projeto button{
+    height: 50px;
+}
